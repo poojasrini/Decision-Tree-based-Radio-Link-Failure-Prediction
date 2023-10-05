@@ -33,4 +33,18 @@ Zip file of the dataset contains the following tab separated files (tsv):<br/>
 • met-stations.tsv: meteorology station information<br/>
 • rl-kpis.tsv: radio link KPIs and configuration parameters<br/>
 • rl-sites.tsv: radio link site information<br/>
-.
+
+# Citation of the paper
+@article{Nethraa_Sivakumar_2022,<br/>
+	doi = {10.52953/lzlj8762},<br/>
+	url = {https://doi.org/10.52953%2Flzlj8762},<br/>
+	year = 2022,<br/>
+	month = {jul},<br/>
+	publisher = {International Telecommunication Union},<br/>
+	volume = {3},<br/>
+	number = {2},<br/>
+	pages = {142--156},<br/>
+	author = {Nethraa Sivakumar and  Pooja Srinivasan and  Nikhil Viswanath and  Venkateswaran N},<br/>
+	title = {Decision tree-based radio link failure prediction for 5G communication reliability},<br/>
+	journal = {{ITU} Journal on Future and Evolving Technologies}<br/>
+}
